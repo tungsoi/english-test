@@ -11,7 +11,7 @@ return [
     | login page.
     |
     */
-    'name' => 'Ceramics',
+    'name' => 'English Test',
 
     /*
     |--------------------------------------------------------------------------
@@ -22,7 +22,7 @@ return [
     | `img` tag, eg '<img src="http://logo-url" alt="Admin logo">'.
     |
     */
-    'logo' => '<b>Ceramics</b>',
+    'logo' => '<b>English Test</b>',
 
     /*
     |--------------------------------------------------------------------------
@@ -34,7 +34,7 @@ return [
     | '<img src="http://logo-url" alt="Admin logo">'.
     |
     */
-    'logo-mini' => '<b>CR</b>',
+    'logo-mini' => '<b>ET</b>',
 
     /*
     |--------------------------------------------------------------------------
